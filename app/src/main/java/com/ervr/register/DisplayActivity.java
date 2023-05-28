@@ -3,6 +3,8 @@ package com.ervr.register;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+import com.ervr.register.databinding.ActivityMainBinding;
+
 
 import androidx.appcompat.app.AppCompatActivity;
 
